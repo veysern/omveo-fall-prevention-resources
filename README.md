@@ -23,5 +23,5 @@ MIT for code, CC0 for data.
 
 ## Links
 
-- [Omveo](https://omveo.co)
+- [Omveo]https://omveo.co/
 - [Founder story]https://omveo.co/blogs/we-built-omveo-one-because-the-button-doesnt-work/we-built-omveo-one-because-the-button-doesnt-work
